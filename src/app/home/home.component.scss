@@ -24,25 +24,6 @@
   gap: 20px;
   justify-content: center;
 
-  mat-card {
-    background-color: #c08267;
-  }
-  mat-card-content {
-    width: 284px;
-    height: 153px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 25px;
-    button {
-      background-color: #a0583c;
-      color: white;
-    }
-  }
-  img {
-    width: 284px;
-    height: 153px;
-    border-radius: 10px;
-  }
+  
 }
+
